@@ -10,7 +10,7 @@ This tutorial demonstrates the creation of tickets as an end user .<br />
 </p>
 </p>
 <p>
-Ken is creating a ticket, the help topic is "Website is down" because customers are reporting that they cannot access mobile banking. 
+Naruto is creating a ticket, the help topic is "Website is down" because customers are reporting that they cannot access mobile banking. 
 </p>
 <img src="https://i.imgur.com/vgWqIVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
